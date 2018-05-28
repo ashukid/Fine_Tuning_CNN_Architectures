@@ -3,3 +3,4 @@
 coco-animal
 *.ckpt
 *.tfrecords
+.gitignore
