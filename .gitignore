@@ -4,3 +4,4 @@ coco-animal
 *.ckpt
 *.tfrecords
 .gitignore
+saved_models
